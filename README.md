@@ -301,9 +301,3 @@ Requires research approval.
 
 Must handle safely.
 
-🧩 If you want, I can also provide:
-
-➡️ A table summarizing all datasets
-➡️ Which datasets are best for behavior-based malware ML
-➡️ A recommended pipeline using VirusShare + sandbox + ML features
-➡️ Ready-to-use feature extraction templates (safe, no malware code)
